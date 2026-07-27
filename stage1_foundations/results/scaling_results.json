@@ -1,0 +1,20 @@
+[
+  {
+    "name": "small",
+    "params": 200353,
+    "loss": 0.5240786778926849,
+    "accuracy": 0.74
+  },
+  {
+    "name": "medium",
+    "params": 503329,
+    "loss": 0.40978595733642575,
+    "accuracy": 0.81
+  },
+  {
+    "name": "large",
+    "params": 1013057,
+    "loss": 0.45960865139961243,
+    "accuracy": 0.7975
+  }
+]
